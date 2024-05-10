@@ -181,7 +181,7 @@ while(1)
 
 }
 ```
-## Result :
+## Output  :
 ![pmcexp8 1](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/63864bbe-3507-4476-877f-a2bc6ce0c7a5)
 
 ![exppmc8 2](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/42ed3e8c-71db-4931-9001-36773cadc9f3)
@@ -189,6 +189,6 @@ while(1)
 ![exppmc8 3](https://github.com/Rajeshanbu/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/118924713/f5e78dba-9ff8-4b8c-9c81-b5e07569c130)
 
 
+## Result :
 
-## Output  :
 Configured an analog port for stm 32 controller and read the values on the serial port successfully.
